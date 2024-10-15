@@ -1,6 +1,9 @@
 ![Banner](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 <h1 align="center">Hi 👋, I'm Tuhin Kairi</h1>
-<h3 align="center">A Passionate Next.js & MERN Enthusiast from India: Creating Modern Web Experiences</h3>
+<!-- <h3 align="center">A Passionate Next.js & MERN Enthusiast from India: Creating Modern Web Experiences</h3> -->
+<h2 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Passionate+web+developer+from+India.;Crafting+modern+web+experiences.;Enjoy+working+with+Next.js+and+MERN.;Passionate+about+AI%2FML+driven+solutions." alt="Typing SVG" /></a>
+</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinkairi&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinkairi" /> </p>
 
