@@ -1,3 +1,4 @@
+![Banner](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 <h1 align="center">Hi 👋, I'm Tuhin Kairi</h1>
 <h3 align="center">A Passionate Next.js & MERN Enthusiast from India: Creating Modern Web Experiences</h3>
 
