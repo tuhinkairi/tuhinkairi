@@ -1,4 +1,4 @@
-![Banner](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
+![Banner](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg)
 <h1 align="center">Hi 👋, I'm Tuhin Kairi</h1>
 <!-- <h3 align="center">A Passionate Next.js & MERN Enthusiast from India: Creating Modern Web Experiences</h3> -->
 <h2 align="center">
