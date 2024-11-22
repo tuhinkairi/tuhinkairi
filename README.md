@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tuhinkairi.pythonanywhere.com/](https://tuhinkairi.pythonanywhere.com/)
 
-- 💬 Ask me about **React, Redux, Flask, Express, Hugging Face, TF.**
+- 💬 Ask me about **NEXT.js, React, Redux, Flask, Express, Hugging Face, TF.**
 
 - 📫 How to reach me **tuhinkairii@gmail.com**
 
