@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tuhinkairii@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GWsWq0T8-ghXir9rVkAjeWNrrQ3VqnNf/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XKqtO8Tqfmlo9KhzsXSmqZqrEDg4UQRZ/view?usp=sharing)
 
 - ⚡ Fun fact **I won a Gold medal in South Bengal Kickboxing Championship(2025) & Bronze Medal in kickboxing at Hooghly District(2024) and play intercollege chess for Banwarilal Bhalotia College with a Chess.com Elo rating of 1600.**
 
