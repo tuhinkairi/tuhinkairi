@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://tuhinkairi.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://tuhinkairi.vercel.app/)
 
 - 💬 Ask me about **NEXT.js, React, Redux, Flask, Express, Hugging Face, TF.**
 
 - 📫 How to reach me **tuhinkairii@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RDs-_bbaLC0eghuNK1HioiAf7xvAQrYL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hpGlDHCWj050mebu6ie9U0ZqDSkwnGyf/view?usp=sharing)
 
 - ⚡ Fun fact **I won a Gold medal in South Bengal Kickboxing Championship(2025) & Bronze Medal in kickboxing at Hooghly District(2024) and play intercollege chess for Banwarilal Bhalotia College with a Chess.com Elo rating of 1600.**
 
