@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinkairi&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinkairi" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Langgraph**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://tuhinkairi.vercel.app/)
 
-- 💬 Ask me about **NEXT.js, React, Redux, Flask, Express, Hugging Face, TF.**
+- 💬 Ask me about **NEXT.js, React, Redux, Flask, Express, Hugging Face, TF, Automations.**
 
 - 📫 How to reach me **tuhinkairii@gmail.com**
 
